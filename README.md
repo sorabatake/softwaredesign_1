@@ -4,7 +4,7 @@ APIは自身の環境で利用可能ですが、APIトークンの発行にはTe
 https://www.fujisan.co.jp/product/1535/
 
 ## 構成
-- xxxx
+- Anarysis_Example_using_AVNIR2.ipynb
   - Tellusで取得できる衛星データを使って、田んぼのNDVI（植生指数）を算出するコードです。
 
 
